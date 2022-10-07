@@ -14,7 +14,7 @@ form.addEventListener('submit', (event) => {
     image.src = imageURL;
     image.height = canvas.height;
     image.width = canvas.width;
-    image.class = "d-flex justify-content-around border border-light";
+    image.class = "d-flex justify-content-around";
 
     // SHOWS THE SIGNATURE IN ANOTHER DIV FOR TESTING
 
