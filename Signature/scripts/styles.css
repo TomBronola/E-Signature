@@ -4,11 +4,6 @@
 }
 
 
-.signature-pad {
-    cursor: 1 26, pointer;
-    border-radius: 4px;
-}
-
 @media (pointer: coarse) {
     body{
         overflow: hidden;
